@@ -1,0 +1,1 @@
+I successfully completed the Titanic survival prediction task assigned by Codesoft during my Data Science internship (Batch A70). Using various machine learning libraries like pandas, numpy, matplotlib, and sklearn, I analyzed the dataset, performed data cleaning, feature engineering, and applied predictive models to estimate the survival chances of passengers.
